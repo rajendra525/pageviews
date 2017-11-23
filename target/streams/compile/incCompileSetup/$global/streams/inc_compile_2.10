@@ -1,0 +1,143 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\target\scala-2.10\classes
+compile options:
+5 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -encoding
+3 -> utf8
+4 -> -target:jvm-1.7
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\target\scala-2.10\classes\com\mycompany\pageviews\Transformation$.class
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\target\scala-2.10\classes\com\mycompany\pageviews\Transformation.class
+binary dependencies:
+5 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-2.1.1.jar
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-2.1.1.jar
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-2.1.1.jar
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> C:\Users\Mahaboob.shaik\.sbt\boot\scala-2.10.6\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> com.mycompany.pageviews.Transformation
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> com.mycompany.pageviews.Transformation$
+used names:
+51 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> <init>
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> AnyRef
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Array
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Builder
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> DataFrame
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> DataFrameReader
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> DataFrameWriter
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Dataset
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Int
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Object
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Predef
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Row
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> SparkConf
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> SparkSession
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> String
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Transformation
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> Unit
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> apache
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> appName
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> apply
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> args
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> builder
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> close
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> coalesce
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> com
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> conf
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> config
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> createOrReplaceTempView
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> data_df
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> drop
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> extendedPageViews_df
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> format
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> getOrCreate
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> input_path
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> load
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> mycompany
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> option
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> org
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> output_path
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> package
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> pageviews
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> read
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> save
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> scala
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> sequencedViews_df
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> set
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> setAppName
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> spark
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> sql
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> trim
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> write
+product stamps:
+2 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\target\scala-2.10\classes\com\mycompany\pageviews\Transformation$.class -> lastModified(1511421956167)
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\target\scala-2.10\classes\com\mycompany\pageviews\Transformation.class -> lastModified(1511421956120)
+source stamps:
+1 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> hash(abe1c201f8a868737e95f7c5dbd7bc221eed8170)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar -> lastModified(1509564603237)
+C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-2.1.1.jar -> lastModified(1493167518000)
+C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-2.1.1.jar -> lastModified(1493167285000)
+C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-2.1.1.jar -> lastModified(1493167640000)
+C:\Users\Mahaboob.shaik\.sbt\boot\scala-2.10.6\lib\scala-library.jar -> lastModified(1442568926000)
+class names:
+5 items
+C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-2.1.1.jar -> org.apache.spark.sql.Row
+C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-2.1.1.jar -> org.apache.spark.SparkConf$
+C:\Users\Mahaboob.shaik\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-2.1.1.jar -> org.apache.spark.sql.SparkSession$
+C:\Users\Mahaboob.shaik\.sbt\boot\scala-2.10.6\lib\scala-library.jar -> scala.Unit
+internal apis:
+1 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwut4adgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwk8GHPXQABm5vdGlmeXNxAH4ADOHaOWN0AAR3YWl0c3EAfgAMHnMAL3QADSRhc0luc3RhbmNlT2ZzcQB+AAwUNsUBdAAGZXF1YWxzc3EAfgAMNqLF+nQADGFzSW5zdGFuY2VPZnNxAH4ADHntJbV0AAxzeW5jaHJvbml6ZWRzcQB+AAz1Pc4ndAANJGlzSW5zdGFuY2VPZnNxAH4ADENeeVB0AARtYWluc3EAfgAM4GuxZHQACW5vdGlmeUFsbHNxAH4ADPGlyJF0AAxpc0luc3RhbmNlT2ZzcQB+AAxoFgBodAACPT1zcQB+AAzUavDUdAAFY2xvbmVzcQB+AAzpS1+XdAAIdG9TdHJpbmdzcQB+AAy/AOj3dAAOVHJhbnNmb3JtYXRpb25zcQB+AAye6VzxdAACIT1zcQB+AAxsMk4XdAAIZ2V0Q2xhc3NzcQB+AAx2yaoldAACbmVzcQB+AAxxCYGAdAACZXFzcQB+AAw0dHeDdAACIyNzcQB+AAzKi1qZdAAIZmluYWxpemVzcQB+AAzEizcSdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAmY29tLm15Y29tcGFueS5wYWdldmlld3MuVHJhbnNmb3JtYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAXY29tLm15Y29tcGFueS5wYWdldmlld3NzcQB+AKZ0AA1jb20ubXljb21wYW55c3EAfgCmdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFf58TADnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFdDOlxVc2Vyc1xNYWhhYm9vYi5zaGFpa1xTcGFya3dvcmtzcGFjZVxQYWdlVmlld1RyYW5zZm9ybWF0aW9uXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSr4cIB+Khoc36V98Xb17wiHu2BcA==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Mahaboob.shaik\Sparkworkspace\PageViewTransformation\src\main\scala\com\mycompany\pageviews\Transformation.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+fEwA51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXE1haGFib29iLnNoYWlrXFNwYXJrd29ya3NwYWNlXFBhZ2VWaWV3VHJhbnNmb3JtYXRpb25cdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
